@@ -103,7 +103,7 @@
         <maven.rar.plugin.version>2.2</maven.rar.plugin.version>
         <maven.gpg.plugin.version>1.4</maven.gpg.plugin.version>
         <maven.javadoc.plugin.version>2.9</maven.javadoc.plugin.version>
-        <nimbus.version>9.4</nimbus.version>
+        <nimbus.version>9.43.4</nimbus.version>
 
         <junit.version>4.12</junit.version>
         <mockito.version>1.10.19</mockito.version>
